@@ -1,0 +1,190 @@
+.navbar-expand-lg .navbar-nav .nav-link,
+.navbar-expand-lg .navbar-nav2 .nav-link{
+	color: black;
+}
+
+#banner{
+   
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+.content h3{
+	color: rgb(36, 35, 35);
+}
+.content h1{
+	color: black;
+}
+.content p{
+	color: black;
+}
+.content a {
+   
+    color: #fff;
+    background-color: rgba(6, 33, 46, 0.637);
+    border-bottom: 3px solid #ffffff;
+}
+.head h2 {
+	color: black;
+}
+
+.box .name, .buy-box .name {
+	color: #555;	
+}
+.box::before,
+.buy-box::before {
+	color: #1f1e1e;
+}
+.box::after,
+.buy-box::after {
+	color: #1f1e1e;
+}
+.feature-title h3 {
+	color: #07a9b1;
+}
+.latest-feature i {
+	color: #69d3d8;
+}
+.latest-feature h3:hover i, .latest-feature h3:hover {
+	color: #07a9b1;
+}
+.box, .buy-box {
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+#tech{
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.tech-head h2{
+	color: black;
+}
+.tech-head p{
+	color: #333232;
+}
+.tech-box{
+	border: 1px solid black;
+}
+.tech-box i {
+	color: black;
+}
+.tech-box h3 {
+	color: #616060e1;
+}
+.function-list h4:hover {
+	color: black;
+}
+.fun i{
+	color: black;
+}
+.fun h4{
+	color: #616060e1;
+}
+.order-head h2 {
+	color: black;
+}
+.card-overlay {
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.card-overlay h6 {
+	color: #555;
+}
+.card-overlay i {
+	color: #555;
+}
+
+#order .slider-icon i {
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.order-head P {
+	color: #07a9b1;
+}
+#order .card-title {
+	color: #0b99a0;
+}
+#order .card-text {
+	color: #1db4bc;
+}
+#video::after {
+	background-color: rgba(133, 223, 231, 0.3);
+}
+.video-text h3 {
+	color: black;
+}
+.video-text p {
+	color: #ffebcd;
+}
+.video-text i {
+	background-color: rgba(21, 191, 243, 0.2);
+	color: black;
+}
+
+#subscribe::after {
+	background-color: rgba(133, 223, 231, 0.3);
+}
+.sub-head h3 {
+	color: black;
+}
+.sub-head p {
+	color: white;
+}
+.email-box i {
+	color: white;
+}
+.buton {
+	color: white;
+}
+#review{
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.review-head h2 {
+	color: black;
+}
+
+.contactInfo .form .icon {
+	background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.contactForm {
+	background: linear-gradient(to right, #a5cff3de 0%, #90e6eb 100%);
+}
+.contactForm .inputBox input[type="submit"] {
+	background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+	color: #555;
+}
+#footer{
+	background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.footer-items p{
+	color: #616060e1;
+}
+.footer-items h5{
+	color: black;
+}
+.footer-items ul,
+.footer-items ul a{
+	color: #555;
+}
+
+.social-media i {
+	color: black;
+	border: 1px solid black;
+}
+#copyright{
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.copyright-left p {
+	color: black;
+}
+.copyright-left p span {
+	color: #363636;
+}
+.copyright-left p a {
+	border-left: 1px solid #252525;
+	color: #363636;
+}
+.copyright-right p {
+	color: black;
+}
+.copyright-right p span {
+	color: #363636;
+}
+.copyright-right p a {
+	color: #363636;
+}

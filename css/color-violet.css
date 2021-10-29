@@ -1,0 +1,230 @@
+.navbar-expand-lg .navbar-nav .nav-link,
+.navbar-expand-lg .navbar-nav2 .nav-link{
+	color: #fff;
+}
+
+#banner{
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+
+.content h3{
+	color: #d8d7d7;
+}
+.content h1{
+	color: #fff;
+}
+.content p{
+	color: #fff;
+}
+.content a {
+   
+    color: #fff;
+    background-color: rgba(6, 33, 46, 0.637);
+    border-bottom: 3px solid #ffffff;
+}
+.head h2 {
+	color: #961aac;
+}
+.box .name, .buy-box .name {
+	color: #555;	
+}
+.box::before,
+.buy-box::before {
+	color: #1f1e1e;
+}
+.box::after,
+.buy-box::after {
+	color: #1f1e1e;
+}
+.feature-title h3 {
+	color: #ea80de;
+}
+.latest-feature i {
+	color: #ea80de;
+}
+.latest-feature h3:hover i, .latest-feature h3:hover, 
+.latest-feature P:hover{
+	color: #961aac;
+}
+.feature-title p {
+	color: #831386;
+}
+.view .col-lg-4:nth-child(1) .circle, .view .col-lg-4:nth-child(1) .buy {
+	background: #c4c4c4c7;
+}
+.view .col-lg-4:nth-child(3) .circle, .view .col-lg-4:nth-child(3) .buy {
+	background: #54ff1263;
+}
+.box, .buy-box {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.box::before,
+.buy-box::before {
+	color: #fff;
+}
+.box::after,
+.buy-box::after {
+	color: black;
+}
+#tech{
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.tech-head h2{
+	color: #fff;
+}
+.tech-head p{
+	color: #fff;
+}
+.tech-box{
+	border: 1px solid #fff;
+}
+.tech-box i {
+	color: #fff;
+}
+.tech-box h3 {
+	color: #fff;
+}
+.function-list h4:hover {
+	color: black;
+}
+.function-icon i {
+	color: #c0c0c0;
+}
+.function-list h4 {
+	color: #fff;
+}
+.order-head h2 {
+	color: #961aac;
+}
+.card-overlay {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.card-overlay h6 {
+	color: #fff;
+}
+.card-overlay i {
+	color: #fff;
+}
+.card-body h4 {
+	color: #8d3295;
+}
+#order .slider-icon i {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.container .box-list:hover{
+    box-shadow: 0 50px 80px rgba(197, 54, 223, 0.2);
+
+}
+.order-head P {
+	color: #ea80de;
+}
+#order .card-title {
+	color: #961aac;
+}
+#order .card-text {
+	color: #ea80de;
+}
+#video::after {
+	background-color: rgba(129, 14, 110, 0.4);
+}
+.video-text h3 {
+	color: #fff;
+}
+.video-text p {
+	color: #fff;
+}
+.video-text i {
+	background-color: rgba(129, 14, 110, 0.4);
+	color: #fff;
+}
+
+#subscribe::after {
+	background-color: rgba(129, 14, 110, 0.4);
+}
+.sub-head h3 {
+	color: #fff;
+}
+.sub-head p {
+	color: #fff;
+}
+#review{
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.review-head h2 {
+	color: #fff;
+}
+.review-head p {
+	color: #fff;
+}
+.buton {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+	color: #fff;
+}
+.email-box i {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+	color: #fff;
+}
+.contactForm h2 {
+	color: #fff;
+}
+.contactInfo .form .icon {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.contactForm .inputBox input:focus ~ span,
+.contactForm .inputBox input:valid ~ span,
+.contactForm .inputBox textarea:focus ~ span,
+.contactForm .inputBox textarea:valid ~ span{
+    color: #fff;
+    font-size: 14px;
+    transform: translateY(-24px);
+}
+.contactForm {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.contactForm .inputBox input[type="submit"] {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+	color: #fff;
+}
+#footer{
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.footer-items p{
+	color: #dfdede;
+}
+.footer-items h5{
+	color: #fff;
+}
+.footer-items ul,
+.footer-items ul a{
+	color: #fff;
+}
+
+.social-media i {
+	color: #fff;
+	border: 1px solid #fff;
+}
+.social-media i:hover {
+	background: linear-gradient(to bottom, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+#copyright{
+	background: linear-gradient(to top, #03001e, #7303c0, #ec38bc, #fdeff9);
+}
+.copyright-left p {
+	color: #fff;
+}
+.copyright-left p span {
+	color: #fff;
+}
+.copyright-left p a {
+	border-left: 1px solid #252525;
+	color: #fff;
+}
+.copyright-right p {
+	color: #fff;
+}
+.copyright-right p span {
+	color: #fff;
+}
+.copyright-right p a {
+	color: #fff;
+}

@@ -1,0 +1,117 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?6e80cd40cf534321dec0e4563b021c7b") format("truetype"),
+url("./flaticon.woff?6e80cd40cf534321dec0e4563b021c7b") format("woff"),
+url("./flaticon.woff2?6e80cd40cf534321dec0e4563b021c7b") format("woff2"),
+url("./flaticon.eot?6e80cd40cf534321dec0e4563b021c7b#iefix") format("embedded-opentype"),
+url("./flaticon.svg?6e80cd40cf534321dec0e4563b021c7b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "settings": "\f101",
+    "electrical-engineer": "\f102",
+    "smart-watch": "\f103",
+    "smart-watch-1": "\f104",
+    "nfc": "\f105",
+    "cpu": "\f106",
+    "cpu-1": "\f107",
+    "running": "\f108",
+    "watch": "\f109",
+    "oxygen": "\f10a",
+    "music": "\f10b",
+    "technology": "\f10c",
+    "technology-1": "\f10d",
+    "calculator": "\f10e",
+    "chip": "\f10f",
+    "healthcare": "\f110",
+    "mic": "\f111",
+    "voice": "\f112",
+    "voice-microphone-symbol": "\f113",
+    "notification": "\f114",
+    "active": "\f115",
+    "fitness-tracker": "\f116",
+    "heart-rate": "\f117",
+);
+
+.flaticon-settings:before {
+    content: map-get($flaticon-map, "settings");
+}
+.flaticon-electrical-engineer:before {
+    content: map-get($flaticon-map, "electrical-engineer");
+}
+.flaticon-smart-watch:before {
+    content: map-get($flaticon-map, "smart-watch");
+}
+.flaticon-smart-watch-1:before {
+    content: map-get($flaticon-map, "smart-watch-1");
+}
+.flaticon-nfc:before {
+    content: map-get($flaticon-map, "nfc");
+}
+.flaticon-cpu:before {
+    content: map-get($flaticon-map, "cpu");
+}
+.flaticon-cpu-1:before {
+    content: map-get($flaticon-map, "cpu-1");
+}
+.flaticon-running:before {
+    content: map-get($flaticon-map, "running");
+}
+.flaticon-watch:before {
+    content: map-get($flaticon-map, "watch");
+}
+.flaticon-oxygen:before {
+    content: map-get($flaticon-map, "oxygen");
+}
+.flaticon-music:before {
+    content: map-get($flaticon-map, "music");
+}
+.flaticon-technology:before {
+    content: map-get($flaticon-map, "technology");
+}
+.flaticon-technology-1:before {
+    content: map-get($flaticon-map, "technology-1");
+}
+.flaticon-calculator:before {
+    content: map-get($flaticon-map, "calculator");
+}
+.flaticon-chip:before {
+    content: map-get($flaticon-map, "chip");
+}
+.flaticon-healthcare:before {
+    content: map-get($flaticon-map, "healthcare");
+}
+.flaticon-mic:before {
+    content: map-get($flaticon-map, "mic");
+}
+.flaticon-voice:before {
+    content: map-get($flaticon-map, "voice");
+}
+.flaticon-voice-microphone-symbol:before {
+    content: map-get($flaticon-map, "voice-microphone-symbol");
+}
+.flaticon-notification:before {
+    content: map-get($flaticon-map, "notification");
+}
+.flaticon-active:before {
+    content: map-get($flaticon-map, "active");
+}
+.flaticon-fitness-tracker:before {
+    content: map-get($flaticon-map, "fitness-tracker");
+}
+.flaticon-heart-rate:before {
+    content: map-get($flaticon-map, "heart-rate");
+}

@@ -1,0 +1,117 @@
+.navbar-expand-lg .navbar-nav .nav-link,
+.navbar-expand-lg .navbar-nav2 .nav-link{
+	color: black;
+}
+
+#banner{
+    background: #cac9c9;
+}
+
+.content h3{
+	color: rgb(36, 35, 35);
+}
+.content h1{
+	color: black;
+}
+.content p{
+	color: black;
+}
+.content a {
+   
+    color: #fff;
+    background-color: rgba(6, 33, 46, 0.637);
+    border-bottom: 3px solid #ffffff;
+}
+.head h2 {
+	color: black;
+}
+.box .name, .buy-box .name {
+	color: #555;	
+}
+.box::before,
+.buy-box::before {
+	color: #1f1e1e;
+}
+.box::after,
+.buy-box::after {
+	
+	color: #1f1e1e;
+	
+}
+.box, .buy-box {
+	background: #cac9c9;
+}
+#tech{
+	background: #cac9c9;
+}
+.tech-head h2{
+	color: black;
+}
+.tech-head p{
+	color: #333232;
+}
+.tech-box{
+	border: 1px solid black;
+}
+.tech-box i {
+	color: black;
+}
+.tech-box h3 {
+	color: #616060e1;
+}
+.order-head h2 {
+	color: black;
+}
+.fun i{
+	color: black;
+}
+.fun h4{
+	color: #616060e1;
+}
+#review{
+	background: #cac9c9;
+}
+
+.review-head h2 {
+	color: black;
+}
+#footer{
+	background: #cac9c9;
+}
+.footer-items p{
+	color: #616060e1;
+}
+.footer-items h5{
+	color: black;
+}
+.footer-items ul,
+.footer-items ul a{
+	color: #555;
+}
+
+.social-media i {
+	color: black;
+	border: 1px solid black;
+}
+#copyright{
+	background: #cac9c9;
+}
+.copyright-left p {
+	color: black;
+}
+.copyright-left p span {
+	color: #363636;
+}
+.copyright-left p a {
+	border-left: 1px solid #252525;
+	color: #363636;
+}
+.copyright-right p {
+	color: black;
+}
+.copyright-right p span {
+	color: #363636;
+}
+.copyright-right p a {
+	color: #363636;
+}
